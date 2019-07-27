@@ -1,0 +1,2 @@
+# GraphQL-howto
+GraphQL playground
