@@ -1,2 +1,2 @@
-# GraphQL-howto
+# GraphQL in Go
 GraphQL playground
